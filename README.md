@@ -41,7 +41,12 @@
 
 <h3>💻 Programming Languages Stack</h3>  <!-- Python, C++, C, Java -->
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> &nbsp; 
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> &nbsp; 
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> &nbsp; 
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"> &nbsp; 
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=java&logoColor=white"> &nbsp; 
+  <img src="">
 </p>
 
 python: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -58,10 +63,26 @@ Java: <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&log
 
 <!-- Frameworks and Libraries -->
 <h3>📚 Frameworks and Libraries Stack</h3>  <!-- eg. React.js, Spring Boot, Django, TensorFlow, Pandas -->
-
+CSS: <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+HTML: <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 <!-- Domain-Specific -->
 <h3>🤖 Domain-Specific Stack</h3>  <!-- eg. PyTorch, Scikit-learn, OpenCV, NLTK, Hugging Face Transformers -->
+
+
+
+TensorFlow: <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+PyTorch: <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+Pandas: <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+Seaborn: <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white">
+OpenCV: <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+Scikit-learn: <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+Django: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+MATLAB: <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
+Git: <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+Visual Studio: <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
+Jupyter Notebook: <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+
 
 <!-- Not learned yet
 <!-- OS --
