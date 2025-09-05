@@ -52,6 +52,7 @@
 <!-- Tool -->
 <h2>🛠️ Tool Stack</h2>  <!-- eg. Visual Studio Code, Git, IntelliJ IDEA, Jupyter Notebook, Vim -->
 <p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> &nbsp; 
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"> &nbsp; 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> &nbsp; 
