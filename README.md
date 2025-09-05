@@ -40,6 +40,16 @@
 <!-- Programming Languages -->
 
 <h3>💻 Programming Languages Stack</h3>  <!-- eg. Python, Java, C++, JavaScript, Go -->
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" style="margin-right: 10px;" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" style="margin-right: 10px;" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" style="margin-right: 10px;" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="40" style="margin-right: 10px;" alt="OpenCV"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="40" style="margin-right: 10px;" alt="MATLAB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" style="margin-right: 10px;" alt="SQL"/>
+</p>
+
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" align="top" />&nbsp;	Python</td>
@@ -59,6 +69,14 @@
 
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30"/> Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30"/> C | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30"/> C++ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30"/> Java |
 |:---:|:---:|:---:|:---:|
+
+## 🔧 Programming Language Stack
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"> |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **C** | **C++** | **Python** | **OpenCV** | **MATLAB** | **SQL** |
+
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" align="top" />&nbsp;	Python	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" align="top" />&nbsp;	C		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
