@@ -8,7 +8,7 @@
 <h2>Connect with me</h2>
 <div align="left">
   <a href="mailto:ashlee.lee9935@gmail.com" target="_blank">
-    <img align="center" src="https://toppng.com/uploads/preview/mail-logo-gmail-logo-2018-11562993752ysgnopnnhx.png" alt="Ashlee's mail" height="30" width="40" />
+    <img align="center" src="https://www.svgrepo.com/show/502648/email.svg" alt="Ashlee's mail" height="30" width="40" />ashlee.lee9935@gmail.com
   </a>
   <a href="https://www.linkedin.com/in/ashlee9935/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashlee's LinkedIn" height="30" width="40" />
