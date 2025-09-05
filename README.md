@@ -1,20 +1,32 @@
 <h2 align="left">Hi 👋! I'm Sih-Jie, Lee, aka Ashlee😁</h2>
 
-###
+###  
+<!-- About me -->
 <h2>About me</h2>
 <p align="left">Hi! I graduated from the Graduate Program of Artificial Intelligence at National Cheng Kung University, where I worked on AI applications in medical imaging. I enjoy exploring new technologies and building projects with code. Outside of work, I have a variety of hobbies and love keeping life interesting and challenging.</p>
 
-###
+### 
+<!-- Connect with me -->
 <h2>Connect with me</h2>
-<div align="left">
+
+<div align="left">  <!-- mail -->
   <a href="mailto:ashlee.lee9935@gmail.com" target="_blank">
-    <img align="center" src="https://www.svgrepo.com/show/502648/email.svg" alt="Ashlee's mail" height="30" width="40" />ashlee.lee9935@gmail.com
+    <img align="center" src="https://www.svgrepo.com/show/502648/email.svg" alt="Ashlee's mail" height="30" width="40" />
+    ashlee.lee9935@gmail.com
   </a>
+</div>
+
+<div align="left">  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ashlee9935/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashlee's LinkedIn" height="30" width="40" />
+    ashlee9935
   </a>
+</div>
+
+<div align="left">  <!-- Instagram -->
   <a href="https://www.instagram.com/sj157dot8?igsh=MTk1eXkzbjF4OGx2cQ%3D%3D&utm_source=qr" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sj157dot8" height="30" width="40" /></a>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sj157dot8" height="30" width="40" />
+    sj157dot8
   </a>
 </div>
 
