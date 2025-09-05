@@ -4,6 +4,7 @@
 <h3>About me</h3>
 <p align="left">Hi! I graduated from the Graduate Program of Artificial Intelligence at National Cheng Kung University, where I worked on AI applications in medical imaging. I enjoy exploring new technologies and building projects with code. Outside of work, I have a variety of hobbies and love keeping life interesting and challenging.</p>
 
+###
 <br clear="both">
 
 <div align="left">
