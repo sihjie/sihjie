@@ -39,13 +39,22 @@
 <h2>My skill</h2>
 <!-- Programming Languages -->
 
-|  |  |
-|--|--|
-|  |  |
 <h3>💻 Programming Languages Stack</h3>  <!-- eg. Python, Java, C++, JavaScript, Go -->
-|  |  |
-|--|--|
-|  |  |
+<table style="border-collapse: collapse; width: 100%; border: none;">
+  <tr style="vertical-align: bottom;">
+    <td style="vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" /></td>
+    <td style="vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" /></td>
+    <td style="vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" /></td>
+    <td style="vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" /></td>
+  </tr>
+  <tr style="vertical-align: bottom;">
+    <td style="vertical-align: middle;">python</td>
+    <td style="vertical-align: middle;">C++</td>
+    <td style="vertical-align: middle;">C</td>
+    <td style="vertical-align: middle;">Java</td>
+  </tr>
+</table>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
