@@ -18,7 +18,7 @@
 
 <div align="left">  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ashlee9935/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashlee's LinkedIn" height="23" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="Ashlee's LinkedIn" height="23" />
     ashlee9935
   </a>
 </div>
