@@ -33,6 +33,54 @@
   </a>
 </div>
 
+
+###
+<!-- My skill -->
+<h2>My skill</h2>
+<!-- Programming Languages -->
+
+|  💻 Programming Languages Stack   |   |
+|  ----  | ----  |
+| 单元格  | 单元格 |
+| 单元格  | 单元格 |
+
+<h3>💻 Programming Languages Stack</h3>  <!-- eg. Python, Java, C++, JavaScript, Go -->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+</div>
+<!-- Tool -->
+<h3>🛠️ Tool Stack</h3>  <!-- eg. Visual Studio Code, Git, IntelliJ IDEA, Jupyter Notebook, Vim -->
+
+
+<!-- Frameworks and Libraries -->
+<h3>📚 Frameworks and Libraries Stack</h3>  <!-- eg. React.js, Spring Boot, Django, TensorFlow, Pandas -->
+
+
+<!-- Domain-Specific -->
+<h3>🤖 Domain-Specific Stack</h3>  <!-- eg. PyTorch, Scikit-learn, OpenCV, NLTK, Hugging Face Transformers -->
+
+<!-- Not learned yet
+<!-- OS --
+<h3>🖥️ OS Stack</h3>  <!-- eg. Linux (Ubuntu, CentOS), Windows, macOS --
+<!-- Project Management --
+<h3>📊 Project Management Stack</h3>  <!-- eg. Agile/Scrum, Jira, Trello, Confluence, Kanban --
+<!-- Database and Data Management --
+<h3>🗄️ Database and Data Management Stack</h3>  <!-- eg. MySQL, PostgreSQL, MongoDB, Redis, Apache Kafka --
+<!-- Cloud and Deployment --
+<h3>☁️ Cloud and Deployment Stack</h3>  <!-- eg. AWS (EC2, S3), Google Cloud Platform, Azure, Docker, Kubernetes --
+<!-- DevOps and CI/CD --
+<h3>🔄 DevOps and CI/CD Stack</h3>  <!-- eg. Jenkins, GitHub Actions, Ansible, Prometheus, ELK Stack --
+<!-- Testing and Quality Assurance --
+<h3>🧪 Testing and Quality Assurance Stack</h3>  <!-- eg. JUnit, Pytest, Selenium, Postman, SonarQube --
+-->
+
+
 ###
 <br clear="both">
 
@@ -48,19 +96,5 @@
 ###
 <!-- Maltese typing -->
 <img align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQzOTl3dzdodjh0aHkwajdhMjllb2Vjbm55ZndkOGY0cWhjenBtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yVih5iDoA8XTaJLl54/giphy.gif"  />
-
-###
-<!-- My skill -->
-<h2>My skill</h2>
-<h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-</div>
 
 ###
