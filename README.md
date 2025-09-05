@@ -18,15 +18,17 @@
 
 <div align="left">  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ashlee9935/" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="Ashlee's LinkedIn" height="23" />
-    ashlee9935
+    &nbsp;
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="Ashlee's LinkedIn" height="20" />
+    &nbsp;ashlee9935
   </a>
 </div>
 
 <div align="left">  <!-- Instagram -->
   <a href="https://www.instagram.com/sj157dot8?igsh=MTk1eXkzbjF4OGx2cQ%3D%3D&utm_source=qr" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sj157dot8" height="22" />
-    sj157dot8
+    &nbsp;
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sj157dot8" height="20" />
+    &nbsp;sj157dot8
   </a>
 </div>
 
