@@ -1,21 +1,6 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23373
-Fork on GitHub
-7946
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h1 align="center">Hello, I'm Sih-jie, Lee</h1>
-<h3 align="center">Hi! I graduated from the Graduate Program of Artificial Intelligence at National Cheng Kung University, where I worked on AI applications in medical imaging. I enjoy exploring new technologies and building projects with code. Outside of work, I have a variety of hobbies and love keeping life interesting and challenging.</h3>
+<h1>Hello, I'm Sih-jie, Lee</h1>
+<h3>About me</h3>
+<p align="left">Hi! I graduated from the Graduate Program of Artificial Intelligence at National Cheng Kung University, where I worked on AI applications in medical imaging. I enjoy exploring new technologies and building projects with code. Outside of work, I have a variety of hobbies and love keeping life interesting and challenging.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sihjie&label=Profile%20views&color=0e75b6&style=flat" alt="sihjie" /> </p>
 
@@ -36,27 +21,3 @@ preview
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sihjie&theme=highcontrast" alt="sihjie" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
