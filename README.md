@@ -15,7 +15,7 @@
   <a href="mailto:ashlee.lee9935@gmail.com" target="_blank">
     ashlee.lee9935@gmail.com
   </a>
-</div>
+</div><br>
 
 <div align="left">  <!-- LinkedIn -->
   &nbsp;
@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/ashlee9935/" target="_blank">
     ashlee9935
   </a>
-</div>
+</div><br>
 
 <div align="left">  <!-- Instagram -->
   &nbsp;
@@ -42,12 +42,10 @@
 <h3>💻 Programming Languages Stack</h3>  <!-- eg. Python, Java, C++, JavaScript, Go -->
 <table>
   <tr>
-    <td nowrap="nowrap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" align="top" />&nbsp;	Python</td>
-    <td nowrap="nowrap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" align="top" />&nbsp;	C</td>
-    <td nowrap="nowrap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" align="top" />&nbsp;	C++</td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" align="top" />&nbsp;	Java</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" align="top" />&nbsp;	Python</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" align="top" />&nbsp;	C</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" align="top" />&nbsp;	C++</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" align="top" />&nbsp;	Java</td>
   </tr>
 </table>
 
