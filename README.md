@@ -18,7 +18,7 @@
 
 <div align="left">  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ashlee9935/" target="_blank">
-    <img align="center" src="https://www.vhv.rs/dpng/d/407-4071004_linkedin-icon-twitter-logo-svg-hd-png-download.png" alt="Ashlee's LinkedIn" height="20" width="40" />
+    <img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="Ashlee's LinkedIn" height="20" width="40" />
     ashlee9935
   </a>
 </div>
