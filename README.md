@@ -8,13 +8,13 @@
 <h2>Connect with me</h2>
 <div align="left">
   <a href="mailto:ashlee.lee9935@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img align="center" src="https://toppng.com/uploads/preview/mail-logo-gmail-logo-2018-11562993752ysgnopnnhx.png" alt="Ashlee's mail" height="30" width="40" />
   </a>
-  <a href="www.linkedin.com/in/ashlee9935" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/ashlee9935/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashlee's LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/sj157dot8?igsh=MTk1eXkzbjF4OGx2cQ%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sj157dot8" height="30" width="40" /></a>
   </a>
 </div>
 
@@ -25,7 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sihjie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ayu-mirage&hide_border=false" height="200" alt="languages graph" /> &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=sihjie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=false" height="165" alt="stats graph" />
 </div>
-<br>
+
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=sihjie&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
 </div>
