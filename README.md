@@ -40,10 +40,9 @@
 <!-- Programming Languages -->
 
 <h3>💻 Programming Languages Stack</h3>  <!-- eg. Python, Java, C++, JavaScript, Go -->
-|     |   |
-|  ----  | ----  |
-| 单元格  | 单元格 |
-| 单元格  | 单元格 |
+|  |  |
+|--|--|
+|  |  |
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
