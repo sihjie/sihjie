@@ -10,8 +10,8 @@
 <h2>Connect with me</h2>
 
 <div align="left">  <!-- mail -->
+  <img align="center" src="https://www.svgrepo.com/show/502648/email.svg" alt="Ashlee's mail" height="30" width="40" />
   <a href="mailto:ashlee.lee9935@gmail.com" target="_blank">
-    <img align="center" src="https://www.svgrepo.com/show/502648/email.svg" alt="Ashlee's mail" height="30" width="40" />
     ashlee.lee9935@gmail.com
   </a>
 </div>
