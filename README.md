@@ -12,7 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sihjie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=false" height="165" alt="stats graph" />
 </div>
 
-<img src="https://via.placeholder.com/1x20/ffffff/ffffff" height="3" alt="" /> <!-- control the vertical space -->
 
 <div align="left">
   
