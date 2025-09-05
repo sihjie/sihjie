@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! I'm Sih-Jie, Lee, aka Ashlee😁</h1>
+<h1 align="left">Hi👋! I'm Sih-Jie, Lee, aka Ashlee😊</h1>
 
 ###  
 <!-- About me -->
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> &nbsp; 
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"> &nbsp; 
 </p>
-
+---
 <!-- Tool -->
 <h3>🛠️ Tool Stack</h3>  <!-- eg. Visual Studio Code, Git, IntelliJ IDEA, Jupyter Notebook, Vim -->
 <p>
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"> &nbsp; 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> &nbsp; 
 </p>
-
+---
 <!-- Frameworks and Libraries -->
 <h3>📚 Frameworks and Libraries Stack</h3>  <!-- eg. React.js, Spring Boot, Django, TensorFlow, Pandas -->
 <p>
@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> &nbsp; 
 </p>
-
+---
 <!-- Domain-Specific -->
 <h3>🤖 AI/ML Stack</h3>  <!-- eg. PyTorch, Scikit-learn, OpenCV, NLTK, Hugging Face Transformers -->
 <p>
