@@ -2,12 +2,12 @@
 
 ###  
 <!-- About me -->
-<h2>About me</h2>
+<h1>About me</h1>
 <p align="left">Hi! I graduated from the Graduate Program of Artificial Intelligence at National Cheng Kung University, where I worked on AI applications in medical imaging. I enjoy exploring new technologies and building projects with code. Outside of work, I have a variety of hobbies and love keeping life interesting and challenging.</p>
 
 ### 
 <!-- Connect with me -->
-<h2>Connect with me</h2>
+<h1>Connect with me</h1>
 
 <div align="left">  <!-- mail -->
   &nbsp;
@@ -36,7 +36,7 @@
 
 ###
 <!-- My skill -->
-<h2>My skill</h2>
+<h1>My skill</h1>
 <!-- <img src=""> &nbsp; -->
 
 <!-- Programming Languages -->
@@ -50,7 +50,7 @@
 </p>
 
 <!-- Tool -->
-<h3>🛠️ Tool Stack</h3>  <!-- eg. Visual Studio Code, Git, IntelliJ IDEA, Jupyter Notebook, Vim -->
+<h2>🛠️ Tool Stack</h2>  <!-- eg. Visual Studio Code, Git, IntelliJ IDEA, Jupyter Notebook, Vim -->
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> &nbsp; 
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"> &nbsp; 
@@ -58,7 +58,7 @@
 </p>
 
 <!-- Frameworks and Libraries -->
-<h3>📚 Frameworks and Libraries Stack</h3>  <!-- eg. React.js, Spring Boot, Django, TensorFlow, Pandas -->
+<h2>📚 Frameworks and Libraries Stack</h2>  <!-- eg. React.js, Spring Boot, Django, TensorFlow, Pandas -->
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"> &nbsp;
@@ -66,7 +66,7 @@
 </p>
 
 <!-- Domain-Specific -->
-<h3>🤖 AI/ML Stack</h3>  <!-- eg. PyTorch, Scikit-learn, OpenCV, NLTK, Hugging Face Transformers -->
+<h2>🤖 AI/ML Stack</h2>  <!-- eg. PyTorch, Scikit-learn, OpenCV, NLTK, Hugging Face Transformers -->
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> &nbsp; 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> &nbsp; 
