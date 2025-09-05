@@ -41,16 +41,14 @@
 
 <h3>💻 Programming Languages Stack</h3>  <!-- eg. Python, Java, C++, JavaScript, Go -->
 <table style="border-collapse: collapse; width: 100%; border: none;">
-  <tr style="vertical-align: bottom;">
-    <td style="vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" /></td>
-    <td style="vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" /></td>
+  <tr style="vertical-align: middle;">
+    <td style="vertical-align: right;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" /></td>
+    <td style="vertical-align: left;">Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td style="vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" /></td>
-    <td style="vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" /></td>
-  </tr>
-  <tr style="vertical-align: bottom;">
-    <td style="vertical-align: middle;">python</td>
+    <td style="vertical-align: middle;">&nbsp; C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td style="vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" /></td>
     <td style="vertical-align: middle;">C++</td>
-    <td style="vertical-align: middle;">C</td>
+    <td style="vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" /></td>
     <td style="vertical-align: middle;">Java</td>
   </tr>
 </table>
