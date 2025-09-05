@@ -10,7 +10,7 @@
 <h2>Connect with me</h2>
 
 <div align="left">  <!-- mail -->
-  <img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Ashlee's mail" height="22" width="40" />
+  <img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Ashlee's mail" height="22" />
   <a href="mailto:ashlee.lee9935@gmail.com" target="_blank">
     ashlee.lee9935@gmail.com
   </a>
