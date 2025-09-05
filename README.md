@@ -40,7 +40,7 @@
 <!-- <img src=""> &nbsp; -->
 
 <!-- Programming Languages -->
-<h3>💻 Programming Languages Stack</h3>  <!-- Python, C++, C, Java -->
+<h2>💻 Programming Languages Stack</h2>  <!-- Python, C++, C, Java -->
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> &nbsp; 
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> &nbsp; 
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> &nbsp; 
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"> &nbsp; 
 </p>
-###
+
 <!-- Tool -->
 <h3>🛠️ Tool Stack</h3>  <!-- eg. Visual Studio Code, Git, IntelliJ IDEA, Jupyter Notebook, Vim -->
 <p>
