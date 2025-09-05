@@ -2,12 +2,12 @@
 
 ###  
 <!-- About me -->
-<h1>About me</h1>
+<h2>About me</h2>
 <p align="left">Hi! I graduated from the Graduate Program of Artificial Intelligence at National Cheng Kung University, where I worked on AI applications in medical imaging. I enjoy exploring new technologies and building projects with code. Outside of work, I have a variety of hobbies and love keeping life interesting and challenging.</p>
 
 ### 
 <!-- Connect with me -->
-<h1>Connect with me</h1>
+<h2>Connect with me</h2>
 
 <div align="left">  <!-- mail -->
   &nbsp;
@@ -35,6 +35,7 @@
 
 
 ###
+<h2>My GitHub overview</h2>
 <br clear="both">
 
 <div align="left">
@@ -47,8 +48,6 @@
 </div>
 
 ###
-<!-- My skill -->
-<h1>My skill</h1>
 <!-- <img src=""> &nbsp; -->
 
 <!-- Programming Languages -->
