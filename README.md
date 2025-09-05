@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Sih-Jie, Lee, aka Ashlee😁</h2>
+<h1 align="left">Hi 👋! I'm Sih-Jie, Lee, aka Ashlee😁</h1>
 
 ###  
 <!-- About me -->
