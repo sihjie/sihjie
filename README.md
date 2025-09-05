@@ -39,6 +39,9 @@
 <h2>My skill</h2>
 <!-- Programming Languages -->
 
+|  |  |
+|--|--|
+|  |  |
 <h3>💻 Programming Languages Stack</h3>  <!-- eg. Python, Java, C++, JavaScript, Go -->
 |  |  |
 |--|--|
