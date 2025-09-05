@@ -10,7 +10,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sihjie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ayu-mirage&hide_border=false" height="200" alt="languages graph" /> &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=sihjie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=false" height="165" alt="stats graph" />
-  <img src="https://via.placeholder.com/1x20/ffffff/ffffff" height="30" alt="" />
+  <img src="https://via.placeholder.com/1x20/ffffff/ffffff" height="70" alt="" />
   <img src="https://streak-stats.demolab.com?user=sihjie&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
 </div>
 
