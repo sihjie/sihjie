@@ -1,8 +1,22 @@
 <h2 align="left">Hi 👋! I'm Sih-Jie, Lee, aka Ashlee😁</h2>
 
 ###
-<h3>About me</h3>
+<h2>About me</h2>
 <p align="left">Hi! I graduated from the Graduate Program of Artificial Intelligence at National Cheng Kung University, where I worked on AI applications in medical imaging. I enjoy exploring new technologies and building projects with code. Outside of work, I have a variety of hobbies and love keeping life interesting and challenging.</p>
+
+###
+<h2>Connect with me</h2>
+<div align="left">
+  <a href="mailto:ashlee.lee9935@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/ashlee9935" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/sj157dot8?igsh=MTk1eXkzbjF4OGx2cQ%3D%3D&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
 
 ###
 <br clear="both">
@@ -17,11 +31,13 @@
 </div>
 
 ###
-
+<!-- Maltese typing -->
 <img align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQzOTl3dzdodjh0aHkwajdhMjllb2Vjbm55ZndkOGY0cWhjenBtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yVih5iDoA8XTaJLl54/giphy.gif"  />
 
 ###
-
+<!-- My skill -->
+<h2>My skill</h2>
+<h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -31,23 +47,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
 </div>
-
-###
-
-<div align="left">
-  <a href="mailto:ashlee.lee9935@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/ashlee9935" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/sj157dot8?igsh=MTk1eXkzbjF4OGx2cQ%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/sihjie/sihjie/output/snake.svg" alt="Snake animation" />
 
 ###
